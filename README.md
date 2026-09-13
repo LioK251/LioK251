@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/LioK251?tab=repositories"><img src="https://img.shields.io/badge/GitHub-LioK251-2D2231?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore LioK251's repositories" /></a>
-  <a href="https://iumen.vercel.app/"><img src="https://img.shields.io/badge/Lumen-live_wallpapers-D484A5?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Visit the Lumen website" /></a>
+  <a href="https://discord.com/users/437943086048608266"><img src="https://img.shields.io/badge/Discord-Message_me-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Open liok's Discord profile" /></a>
   <a href="https://github.com/LioK251?tab=followers"><img src="https://img.shields.io/github/followers/LioK251?style=for-the-badge&amp;label=Follow&amp;color=B56A8F&amp;labelColor=2D2231&amp;logo=github&amp;logoColor=white" alt="Follow LioK251 on GitHub" /></a>
 </p>
 

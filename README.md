@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="https://github.com/LioK251">
-    <picture>
-      <source media="(max-width: 600px)" srcset="./profile.svg" />
-      <img src="./profile3.svg" width="100%" alt="LioK's sakura portfolio — Roblox scripting, music tools, macOS apps, and automation." />
-    </picture>
-  </a>
-</p>
-
-<h1 align="center">Hi there, I'm LioK 🌸</h1>
+<h1 align="center">Hi there, I'm liok</h1>
 
 <p align="center">
   <b>I like scripting on Lego games and building useful little things.</b><br />

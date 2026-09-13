@@ -11,14 +11,14 @@
   <a href="https://github.com/LioK251?tab=followers"><img src="https://img.shields.io/github/followers/LioK251?style=for-the-badge&amp;label=Follow&amp;color=B56A8F&amp;labelColor=2D2231&amp;logo=github&amp;logoColor=white" alt="Follow LioK251 on GitHub" /></a>
 </p>
 
-## 🌱 A little about me
+## 🚀 About Me
 
 - **Roblox & scripting** — Lua and Luau projects, game tooling, and connecting Roblox clients to MCP.
 - **Music & creative tools** — audio-to-MIDI transcription, virtual piano sheets, and browser playback.
 - **macOS apps** — native SwiftUI interfaces, procedural wallpapers, and local media libraries.
 - **Automation** — Python utilities, Discord bots, and tools that make everyday tasks a little easier.
 
-## 🛠️ Languages & tools
+## 💻 Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Lua-6150A5?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Lua" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Git-A05A7B?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
-## 🌸 Selected projects
+## ⭐ Featured Projects
 
 <table>
   <tr>
@@ -85,16 +85,6 @@
 </picture>
 
 ---
-
-## 📈 Visitor Count
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@liok251?theme=moebooru" alt="Profile Views" />
-  &nbsp;
-  <!--<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rabbanyhmm&icon=0&color=0" />
-  </a> -->
-</p>
 
 ### ✍️ Random Dev Quote
 

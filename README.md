@@ -90,5 +90,4 @@
 
 <p align="center">
   <sub>Curiosity, code, and a few cherry blossoms. 🌸</sub><br />
-  <sub>Profile layout inspired by <a href="https://github.com/rabbanyhmm">rabbanyhmm</a>.</sub>
 </p>

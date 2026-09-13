@@ -79,16 +79,16 @@
 
 ## 🐍 A little contribution garden
 
-<!-- Generated for LioK251 by .github/workflows/snake.yml after the first workflow run. -->
+<!-- Updated daily by .github/workflows/snake.yml; light and dark GitHub-green palettes. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake.svg" width="100%" alt="LioK251's GitHub contributions, animated as a pink snake." />
+  <img src="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake.svg" width="100%" alt="LioK251's GitHub contributions, animated as a green snake." />
 </picture>
 
 ---
 
 <p align="center">
   <sub>Curiosity, code, and a few cherry blossoms. 🌸</sub><br />
-  <sub>Sakura artwork adapted from <a href="https://github.com/rabbanyhmm">rabbanyhmm</a>.</sub>
+  <sub>Profile layout inspired by <a href="https://github.com/rabbanyhmm">rabbanyhmm</a>.</sub>
 </p>

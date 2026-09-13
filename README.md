@@ -77,8 +77,6 @@
   <a href="https://github.com/LioK251?tab=repositories">All repositories ↗</a>
 </p>
 
-## 🐍 A little contribution garden
-
 <!-- Updated daily by .github/workflows/snake.yml; light and dark GitHub-green palettes. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake-dark.svg" />
@@ -88,6 +86,22 @@
 
 ---
 
+## 📈 Visitor Count
+
 <p align="center">
-  <sub>Curiosity, code, and a few cherry blossoms. 🌸</sub><br />
+  <img src="https://count.getloli.com/get/@liok251?theme=moebooru" alt="Profile Views" />
+  &nbsp;
+  <!--<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rabbanyhmm&icon=0&color=0" />
+  </a> -->
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <sub>Built with intent. Most of the good stuff is private. 🔒</sub><br />
 </p>

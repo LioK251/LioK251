@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I like scripting on Lego games and building useful little things.</b><br />
-  From Roblox scripts to piano tools and living macOS desktops — a home for my projects.
+  Roblox scripts, music tools, live wallpapers, and desktop automation — a home for my projects.
 </p>
 
 <p align="center">
@@ -15,12 +15,13 @@
 
 - **Roblox & scripting** — Lua and Luau projects, game tooling, and connecting Roblox clients to MCP.
 - **Music & creative tools** — audio-to-MIDI transcription, virtual piano sheets, and browser playback.
-- **macOS apps** — native SwiftUI interfaces, procedural wallpapers, and local media libraries.
+- **Desktop apps** — GitHub folder sync with Tauri and Rust, plus native macOS wallpapers with SwiftUI.
 - **Automation** — Python utilities, Discord bots, and tools that make everyday tasks a little easier.
 
 ## 💻 Languages & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Rust-9A563A?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Lua-6150A5?style=for-the-badge&amp;logo=lua&amp;logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Luau-6150A5?style=for-the-badge&amp;logo=luau&amp;logoColor=white" alt="Luau" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
@@ -30,6 +31,9 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Tauri-287B8D?style=for-the-badge&amp;logo=tauri&amp;logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Svelte-C45332?style=for-the-badge&amp;logo=svelte&amp;logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-287B8D?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/SwiftUI-AE5681?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/Node.js-447748?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Flask-725969?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
@@ -42,14 +46,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/LioK251/lazysync">lazysync</a></h3>
+      <p>A compact Windows and macOS tray app for syncing a local folder with GitHub. Manual or automatic sync, side-by-side file comparisons, and conflict recovery.</p>
+      <p><code>Rust</code> <code>Tauri</code> <code>Svelte</code> <code>TypeScript</code></p>
+      <p><a href="https://github.com/LioK251/lazysync">Explore the project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/LioK251/musicbot">Discord Music Bot</a></h3>
+      <p>A Discord bot with music playback, slash commands, interactive queue controls, and automatic TikTok video embeds. Supports YouTube, SoundCloud, and Spotify track lookup.</p>
+      <p><code>Python</code> <code>discord.py</code> <code>FFmpeg</code></p>
+      <p><a href="https://github.com/LioK251/musicbot">Explore the project →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🎹 <a href="https://github.com/LioK251/mp3converter">MP3 Converter</a></h3>
-      <p>Turn audio and video into MIDI with Transkun. Convert MIDI to QWERTY piano sheets, browse a local library, and play it all back in the browser.</p>
+      <p>Turn audio, video, and supported media links into MIDI with Transkun. Create QWERTY piano sheets, customize the piano visualizer, and play with SoundFonts in the browser or desktop app.</p>
       <p><code>Python</code> <code>JavaScript</code> <code>Flask</code> <code>PyTorch</code></p>
       <p><a href="https://github.com/LioK251/mp3converter">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌅 <a href="https://github.com/LioK251/LumenWallpapers">Lumen Wallpapers</a></h3>
-      <p>A native macOS app for living desktops. Procedural scenes, looping videos, a local media library, and controls for multiple displays.</p>
+      <p>A native macOS app for living desktops. Procedural scenes, looping videos, a local media library, wallpaper discovery, and controls for multiple displays.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>macOS</code></p>
       <p><a href="https://github.com/LioK251/LumenWallpapers">Source code →</a> · <a href="https://iumen.vercel.app/">Visit Lumen ↗</a></p>
     </td>
@@ -73,11 +91,9 @@
 <p align="center">
   More from my scripting corner:
   <a href="https://github.com/LioK251/RbScripts">RbScripts</a> ·
-  <a href="https://github.com/LioK251/Scripts">Scripts</a> ·
   <a href="https://github.com/LioK251?tab=repositories">All repositories ↗</a>
 </p>
 
-<!-- Updated daily by .github/workflows/snake.yml; light and dark GitHub-green palettes. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake.svg" />
@@ -89,7 +105,7 @@
 ### ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="Random developer quote" />
 </p>
 
 <p align="center">

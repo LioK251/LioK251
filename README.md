@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I like scripting on Lego games and building useful little things.</b><br />
-  Roblox scripts, music tools, live wallpapers, and desktop automation — a home for my projects.
+  Roblox scripts, music tools, live wallpapers, Steam utilities, and GitHub sync — a home for my projects.
 </p>
 
 <p align="center">
@@ -15,10 +15,15 @@
 
 - **Roblox & scripting** — Lua and Luau projects, game tooling, and connecting Roblox clients to MCP.
 - **Music & creative tools** — audio-to-MIDI transcription, virtual piano sheets, and browser playback.
-- **Desktop apps** — GitHub folder sync with Tauri and Rust, plus native macOS wallpapers with SwiftUI.
-- **Automation** — Python utilities, Discord bots, and tools that make everyday tasks a little easier.
+- **Desktop apps** — GitHub sync with lazysync, Steam profile management with Larpluma, and live macOS wallpapers with Lumen.
+- **Automation & customization** — Python utilities, Discord bots, and desktop tools with customizable interfaces.
 
+<!--
 ## 💻 Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C# / .NET" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/Rust-9A563A?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
@@ -41,56 +46,47 @@
   <img src="https://img.shields.io/badge/Git-A05A7B?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 </p>
 
+-->
+
 ## ⭐ Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔄 <a href="https://github.com/LioK251/lazysync">lazysync</a></h3>
-      <p>A compact Windows and macOS tray app for syncing a local folder with GitHub. Manual or automatic sync, side-by-side file comparisons, and conflict recovery.</p>
+      <p>A compact Windows and macOS tray app for syncing a selected GitHub checkout. Manual or automatic sync, side-by-side local/cloud comparisons, ignore controls, and conflict recovery.</p>
       <p><code>Rust</code> <code>Tauri</code> <code>Svelte</code> <code>TypeScript</code></p>
       <p><a href="https://github.com/LioK251/lazysync">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/LioK251/musicbot">Discord Music Bot</a></h3>
-      <p>A Discord bot with music playback, slash commands, interactive queue controls, and automatic TikTok video embeds. Supports YouTube, SoundCloud, and Spotify track lookup.</p>
-      <p><code>Python</code> <code>discord.py</code> <code>FFmpeg</code></p>
-      <p><a href="https://github.com/LioK251/musicbot">Explore the project →</a></p>
+      <h3>🎮 <a href="https://github.com/LioK251/larpluma">Larpluma</a></h3>
+      <p>A Windows fork of GreenLuma Manager with a minimal WPF interface. Manage Steam profiles, search games and DLC, and customize themes, fonts, and animated backgrounds.</p>
+      <p><code>C#</code> <code>WPF</code> <code>.NET</code> <code>Windows</code></p>
+      <p><a href="https://github.com/LioK251/larpluma">Explore the project →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎹 <a href="https://github.com/LioK251/mp3converter">MP3 Converter</a></h3>
-      <p>Turn audio, video, and supported media links into MIDI with Transkun. Create QWERTY piano sheets, customize the piano visualizer, and play with SoundFonts in the browser or desktop app.</p>
+      <p>Convert audio, video, and supported media links to MIDI with Transkun. Create QWERTY piano sheets, browse your MIDI library, and use a customizable piano visualizer with SoundFont playback and hand controls.</p>
       <p><code>Python</code> <code>JavaScript</code> <code>Flask</code> <code>PyTorch</code></p>
       <p><a href="https://github.com/LioK251/mp3converter">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌅 <a href="https://github.com/LioK251/LumenWallpapers">Lumen Wallpapers</a></h3>
-      <p>A native macOS app for living desktops. Procedural scenes, looping videos, a local media library, wallpaper discovery, and controls for multiple displays.</p>
+      <p>A native macOS app for live wallpapers. Procedural scenes, looping videos, a local media library, wallpaper discovery, multi-display controls, and video wallpapers for the desktop and lock screen.</p>
       <p><code>Swift</code> <code>SwiftUI</code> <code>macOS</code></p>
       <p><a href="https://github.com/LioK251/LumenWallpapers">Source code →</a> · <a href="https://iumen.vercel.app/">Visit Lumen ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/LioK251/potassium_mcp_bridge">Roblox MCP Bridge</a></h3>
-      <p>Connect a live Roblox client to MCP tools. Explore instance trees, inspect scripts, and bridge client tooling through a local WebSocket server.</p>
-      <p><code>Luau</code> <code>TypeScript</code> <code>MCP</code></p>
-      <p><a href="https://github.com/LioK251/potassium_mcp_bridge">Explore the project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💬 <a href="https://github.com/LioK251/steam_discordbot">Steam Discord Bot</a></h3>
-      <p>Look up Steam apps by name or ID, retrieve manifest ZIPs, and check API usage without leaving Discord.</p>
-      <p><code>Python</code> <code>Discord</code> <code>Automation</code></p>
-      <p><a href="https://github.com/LioK251/steam_discordbot">Explore the project →</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  More from my scripting corner:
+  More projects:
   <a href="https://github.com/LioK251/RbScripts">RbScripts</a> ·
+  <a href="https://github.com/LioK251/potassium_mcp_bridge">Roblox MCP Bridge</a> ·
+  <a href="https://github.com/LioK251/musicbot">Discord Music Bot</a> ·
+  <a href="https://github.com/LioK251/steam_discordbot">Steam Discord Bot</a><br />
   <a href="https://github.com/LioK251?tab=repositories">All repositories ↗</a>
 </p>
 

@@ -15,7 +15,7 @@
 
 - **Roblox & scripting** — Lua and Luau projects, game tooling, and connecting Roblox clients to MCP.
 - **Music & creative tools** — audio-to-MIDI transcription, virtual piano sheets, and browser playback.
-- **Desktop apps** — GitHub sync with lazysync, Steam profile management with Larpluma, and live macOS wallpapers with Lumen.
+- **Desktop apps** — GitHub sync with lazysync, Steam profile management with larpluma, and live macOS wallpapers with Lumen.
 - **Automation & customization** — Python utilities, Discord bots, and desktop tools with customizable interfaces.
 
 <!--
@@ -59,7 +59,7 @@
       <p><a href="https://github.com/LioK251/lazysync">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/LioK251/larpluma">Larpluma</a></h3>
+      <h3>🎮 <a href="https://github.com/LioK251/larpluma">larpluma</a></h3>
       <p>A Windows fork of GreenLuma Manager with a minimal WPF interface. Manage Steam profiles, search games and DLC, and customize themes, fonts, and animated backgrounds.</p>
       <p><code>C#</code> <code>WPF</code> <code>.NET</code> <code>Windows</code></p>
       <p><a href="https://github.com/LioK251/larpluma">Explore the project →</a></p>

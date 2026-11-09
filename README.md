@@ -84,7 +84,7 @@
 <p align="center">
   More projects:
   <a href="https://github.com/LioK251/RbScripts">RbScripts</a> ·
-  <a href="https://github.com/LioK251/lazytune">LazyTune</a> .
+  <a href="https://github.com/LioK251/lazytune">LazyTune</a> ·
   <a href="https://github.com/LioK251/mp3converter">mp3converter</a> ·
   <a href="https://github.com/LioK251/potassium_mcp_bridge">Roblox MCP Bridge</a> ·
   <a href="https://github.com/LioK251/musicbot">Discord Music Bot</a> ·

@@ -67,9 +67,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎹 <a href="https://github.com/LioK251/mp3converter">MP3 Converter</a></h3>
-      <p>Convert audio, video, and supported media links to MIDI with Transkun. Create QWERTY piano sheets, browse your MIDI library, and use a customizable piano visualizer with SoundFont playback and hand controls.</p>
-      <p><code>Python</code> <code>JavaScript</code> <code>Flask</code> <code>PyTorch</code></p>
+      <h3>🎹 <a href="https://github.com/LioK251/lazymidi">lazymidi</a></h3>
+      <p>Wooting analog and MIDI controllers to QWERTY for virtual piano games.</p>
+      <p><code>Python</code> <code>JavaScript</code> <code>Rust</code> <code>PyTorch</code></p>
       <p><a href="https://github.com/LioK251/mp3converter">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
@@ -84,6 +84,8 @@
 <p align="center">
   More projects:
   <a href="https://github.com/LioK251/RbScripts">RbScripts</a> ·
+  <a href="https://github.com/LioK251/lazytune">LazyTune</a> .
+  <a href="https://github.com/LioK251/mp3converter">mp3converter</a> ·
   <a href="https://github.com/LioK251/potassium_mcp_bridge">Roblox MCP Bridge</a> ·
   <a href="https://github.com/LioK251/musicbot">Discord Music Bot</a> ·
   <a href="https://github.com/LioK251/steam_discordbot">Steam Discord Bot</a><br />

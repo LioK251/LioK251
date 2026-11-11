@@ -98,6 +98,7 @@
   <img src="https://raw.githubusercontent.com/LioK251/LioK251/output/github-snake.svg" width="100%" alt="LioK251's GitHub contributions, animated as a green snake." />
 </picture>
 
+<!--
 ---
 
 ### ✍️ Random Dev Quote
@@ -109,3 +110,4 @@
 <p align="center">
   <sub>Built with intent. Most of the good stuff is private. 🔒</sub><br />
 </p>
+-->
